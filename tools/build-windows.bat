@@ -4,3 +4,4 @@ call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\Common7\Too
 call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\Common7\Tools\VsDevCmd.bat" -test
 
 tools\release_fritzing.bat %1 64 2017
+
